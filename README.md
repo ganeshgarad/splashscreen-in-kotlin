@@ -1,2 +1,2 @@
 # splashscreen-in-kotlin
-Splashscreen in kotlin with image background
+Android Splashscreen in kotlin with image background
